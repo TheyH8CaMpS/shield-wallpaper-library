@@ -1,19 +1,18 @@
 # Shield Wallpaper Library
 
-A 23-image photographic collection for Projectivy Premium + Overflight on NVIDIA Shield TV: dark and vibrant green nature, Los Angeles, Dodgers, Raiders and Lakers.
+A 20-image photographic collection for Projectivy Premium + Overflight on NVIDIA Shield TV: dark and vibrant green nature, Los Angeles, Dodgers, Raiders and Lakers.
 
 ## Current status
 
-The `overflight.json` feed is committed. **Repository visibility is private right now**, so anonymous Shield access won't work until this repository is made public. No other repository should be altered. There are no actual photos stored here: the feed references external image URLs.
+The `overflight.json` feed is committed. No other repository should be altered. There are no actual photos stored here: the feed references external image URLs.
 
 ## First-time setup
 
-1. Inspect this repository for anything sensitive, then change **this repository only** to Public under GitHub Settings → General → Danger Zone → Change repository visibility.
-2. Open this URL in a signed-out/incognito browser to verify public access:
+1. Open this URL in a signed-out/incognito browser to verify public access:
    https://raw.githubusercontent.com/TheyH8CaMpS/shield-wallpaper-library/main/overflight.json
-3. Install **Overflight (Projectivy Plugin)** from Google Play on the Shield (Projectivy Premium required).
-4. In Projectivy: Settings → Appearance → Wallpaper → Overflight, then open provider settings and set the custom JSON/media source URL to the raw link above.
-5. Configure rotation and HTTP/media cache interval as desired. Refresh/restart the provider if edits aren't immediately visible.
+2. Install **Overflight (Projectivy Plugin)** from Google Play on the Shield (Projectivy Premium required).
+3. In Projectivy: Settings → Appearance → Wallpaper → Overflight, then open provider settings and set the custom JSON/media source URL to the raw link above.
+4. Configure rotation and HTTP/media cache interval as desired. Refresh/restart the provider if edits aren't immediately visible.
 
 ## Maintain the collection
 
